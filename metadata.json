@@ -1,0 +1,8 @@
+{
+  "name": "Will Fernandez",
+  "description": "Piattaforma di coaching premium di Will Fernandez incentrata sull'ottimizzazione delle prestazioni, l'allenamento della forza mentale e un assistente alle prestazioni basato sull'intelligenza artificial.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
